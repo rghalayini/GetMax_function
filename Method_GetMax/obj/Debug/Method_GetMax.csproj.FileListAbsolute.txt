@@ -1,0 +1,7 @@
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Method_GetMax\Method_GetMax\bin\Debug\Method_GetMax.exe.config
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Method_GetMax\Method_GetMax\bin\Debug\Method_GetMax.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Method_GetMax\Method_GetMax\bin\Debug\Method_GetMax.pdb
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Method_GetMax\Method_GetMax\obj\Debug\Method_GetMax.csprojAssemblyReference.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Method_GetMax\Method_GetMax\obj\Debug\Method_GetMax.csproj.CoreCompileInputs.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Method_GetMax\Method_GetMax\obj\Debug\Method_GetMax.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Method_GetMax\Method_GetMax\obj\Debug\Method_GetMax.pdb
